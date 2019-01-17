@@ -1,0 +1,113 @@
+WEBVTT
+
+0
+00:01.020 --> 00:06.660
+You have probably heard the name Alexa regardless of whether or not you own an Amazon device.
+
+1
+00:06.750 --> 00:13.110
+Alexa is the name you call out when you have a question when using an Amazon Echo device or Alexa-enabled
+
+2
+00:13.110 --> 00:14.470
+speaker.
+
+3
+00:14.760 --> 00:21.960
+Alexa is the virtual assistant with a female voice created by Amazon that allows you to talk in a conversational
+
+4
+00:21.960 --> 00:22.690
+manner.
+
+5
+00:22.990 --> 00:29.790
+It assists you in performing day-to-day tasks such as playing music, controlling smartphone gadgets, giving the
+
+6
+00:29.790 --> 00:37.380
+ability to dim lights, lock doors or adjusting your thermostat. Even though you associate Alexa with
+
+7
+00:37.380 --> 00:40.810
+products like the Amazon Echo or Fire TV Cube,
+
+8
+00:41.040 --> 00:44.090
+You can't actually go out and buy an Alexa.
+
+9
+00:44.100 --> 00:48.680
+Most people associate Alexa as the name of the voice that comes out of the Alexa-enabled
+
+10
+00:48.690 --> 00:57.270
+speakers. Essentially Alexa is to Amazon as what Siri is to Apple or what the Google Assistant
+
+11
+00:57.300 --> 00:58.720
+is to Google.
+
+12
+00:58.740 --> 01:05.430
+Alexa is the voice you can ask questions and get answers to such as What is the weather today.
+
+13
+01:05.510 --> 01:09.620
+However under the covers it goes a little deeper than that.
+
+14
+01:09.810 --> 01:15.180
+When you communicate with Alexa you are communicating with a cloud based service.
+
+15
+01:15.210 --> 01:21.900
+This is actually the Alexa Voice Service which was created by Amazon and is an intelligent voice
+
+16
+01:21.900 --> 01:28.740
+recognition and natural language processing service that allows you to voice enable any connected device
+
+17
+01:28.740 --> 01:32.390
+that has a microphone and a speaker.
+
+18
+01:32.460 --> 01:39.780
+Alexa is simply the wake word that alerts the service to start listening to your voice by default, although 
+
+19
+01:39.870 --> 01:47.760
+this can be changed. In order to extend the capabilities of Alexa, Amazon has made available to developers
+
+20
+01:47.790 --> 01:57.270
+and programmers the Alexa Skills Kit. The Alexa Skills Kit is a collection of self-service APIs, tools, documentation
+
+21
+01:57.330 --> 02:06.150
+and code that makes it easy to create new skills for Alexa. Skills enable customers to create a personalized
+
+22
+02:06.150 --> 02:07.740
+experience.
+
+23
+02:07.740 --> 02:13.830
+There are now tens of thousands of skills from companies like Starbucks, Uber, Capital One and many other
+
+24
+02:13.830 --> 02:15.090
+companies.
+
+25
+02:15.090 --> 02:22.530
+The great news is the ability to create a new skill for Alexa is now available to anyone. Using a voice
+
+26
+02:22.530 --> 02:26.550
+user interface and the capabilities of the Alexa Voice Service,
+
+27
+02:26.550 --> 02:30.100
+the possibilities are endless for developers.
